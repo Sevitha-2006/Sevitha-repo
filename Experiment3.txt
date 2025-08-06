@@ -1,0 +1,7 @@
+#student potal demo
+Creating Student Portal Application
+#Features(planned):
+-Student login and registration
+-Student Academic record
+-Student branch
+-Student Attendance
